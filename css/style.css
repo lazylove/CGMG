@@ -178,7 +178,9 @@ section{
     color:#ff0080 !important;
 }
 .text-green{
-    color:#aa00ff !important;
+    color:#ff0080 !important;
+    font-family: 'Poppins';
+   
 }
 .text-red{
     color:#FF3B30 !important;
